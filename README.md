@@ -1,7 +1,8 @@
 # Hatric-message
 
 
-Please limit 5 seconds between each message to avoid temporary ban on Facebook
+Please limit 5 seconds between each message to avoid being temporarily banned from commenting on Facebook
+
 > Supports Facebook
 > Supports WhatsApp Web
 > Supports Instagram
