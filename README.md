@@ -7,5 +7,5 @@ Please limit 5 seconds between each message to avoid being temporarily banned fr
 > Supports WhatsApp Web
 > Supports Instagram
 
-                   Warning
+########################################Warning
   I do not take responsibility for the use of          this tool in illegal acts
